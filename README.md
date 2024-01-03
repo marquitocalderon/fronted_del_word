@@ -1,0 +1,1 @@
+# fronted_del_word
